@@ -9,4 +9,5 @@ Q3)  To create Star topology using Hub and Switch.
 ![image](https://github.com/Chanchalkumar1/Computer-Networking/assets/118990779/a0330352-938b-4c4d-926d-9ab34001eea2)
 
 (ii) using Hub
+
 ![image](https://github.com/Chanchalkumar1/Computer-Networking/assets/118990779/851d9f64-1cee-49e1-8b17-a86e2cdf5c46)
